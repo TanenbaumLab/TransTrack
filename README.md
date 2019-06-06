@@ -1,2 +1,2 @@
 # TransTrack
-Read TransTrack manual for instructions for download, install, and use. 
+Read TransTrack manual for instructions to download, install, and use. 
